@@ -1,7 +1,15 @@
 # QRCode
 Basic practice with QR code generation module, links back to Disneyland as its my happiest place on earth
+# Dependencies
+
+1.go to command terminal
+
+2.type pip install pyqrcode
+
+3.type pip install pypng
+
 # Implementation
-Im basically gonna give this to relatives so heres some instructions on how to use it.
+Im basically gonna give this to relatives so heres some instructions on how to use it. 
   
   1.click the windows search bar and type in "Notepad"
   
